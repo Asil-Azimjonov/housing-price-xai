@@ -2,6 +2,7 @@
 
 This project demonstrates how machine learning can be used to predict housing prices, and, more importantly, how we can **explain** these predictions using SHAP (SHapley Additive exPlanations). By combining predictive modeling with interpretability, this project shows how AI models can move from black-box to transparent decision-making.
 
+  📖 [Read my article about XAI and application of SHAP values in this project](https://medium.com/@asiljon-azimjonov/explainable-artificial-intelligence-telling-the-story-behind-the-prediction-deb376a82d5e) 
 
 ## 📌 Project Overview
 
@@ -27,8 +28,6 @@ In many high-stakes industries like finance and healthcare, **model transparency
 3. **Explainability with SHAP**:
    - Global importance of features
    - Local explanations for individual predictions
-     
-  📖 [Read my article about explainability here]([https://medium.com/@asiljon/housing-xai](https://medium.com/@asiljon-azimjonov/explainable-artificial-intelligence-telling-the-story-behind-the-prediction-deb376a82d5e) 
 
 ## 🛠 Tech Stack
 
