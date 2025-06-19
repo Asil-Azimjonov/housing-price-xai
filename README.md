@@ -27,6 +27,7 @@ In many high-stakes industries like finance and healthcare, **model transparency
 3. **Explainability with SHAP**:
    - Global importance of features
    - Local explanations for individual predictions
+     
   📖 [Read my article about explainability here]([https://medium.com/@asiljon/housing-xai](https://medium.com/@asiljon-azimjonov/explainable-artificial-intelligence-telling-the-story-behind-the-prediction-deb376a82d5e) 
 
 ## 🛠 Tech Stack
@@ -39,7 +40,6 @@ In many high-stakes industries like finance and healthcare, **model transparency
 ## 📬 Contact
 
 **Asiljon Azimjonov**  
-Data Science & AI Strategy   
 [LinkedIn](https://www.linkedin.com/in/asiljon-azimjonov/) · [GitHub: Project Portfolio](https://github.com/Asil-Azimjonov/Project-Portfolio)
 
 ---
