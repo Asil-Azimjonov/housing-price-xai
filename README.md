@@ -39,7 +39,7 @@ In many high-stakes industries like finance and healthcare, **model transparency
 ## 📬 Contact
 
 **Asiljon Azimjonov**  
-[LinkedIn](https://www.linkedin.com/in/asiljon-azimjonov/) · [GitHub: Project Portfolio](https://github.com/Asil-Azimjonov/Project-Portfolio)
+[LinkedIn](https://www.linkedin.com/in/asiljon-azimjonov/) · [GitHub: Project Portfolio](https://github.com/Asil-Azimjonov/Project-Portfolio) · [Medium](https://medium.com/@asiljon-azimjonov)
 
 ---
 
