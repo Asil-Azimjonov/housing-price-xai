@@ -1,4 +1,4 @@
-# 🏠 Housing Price Prediction with Explainable AI (SHAP)
+# 🏠 Real Estate Price Prediction & Explainable AI
 
 This project demonstrates how machine learning can be used to predict housing prices, and, more importantly, how we can **explain** these predictions using SHAP (SHapley Additive exPlanations). By combining predictive modeling with interpretability, this project shows how AI models can move from black-box to transparent decision-making.
 
