@@ -11,8 +11,8 @@ This project demonstrates how machine learning can be used to predict housing pr
 
 ## 💡 Why It Matters
 
-In many high-stakes industries like real estate, finance, and healthcare, **model transparency** is just as important as performance. This project addresses that by:
-- Predicting prices accurately,
+In many high-stakes industries like finance and healthcare, **model transparency** is just as important as performance. This project addresses that by:
+- Predicting housing prices accurately,
 - Revealing how features like square footage, location, or quality drive those predictions,
 - Making the model interpretable to non-technical stakeholders.
 
